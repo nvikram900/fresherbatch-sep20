@@ -1,0 +1,18 @@
+* {
+	text-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	box-shadow: none !important;
+}
+
+.h1,
+.h2,
+.h3,
+.text-flama,
+h1,
+h2,
+h3 {
+	font-family: "Arch Sans Extra Bold", arial !important;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
