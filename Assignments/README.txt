@@ -1,1 +1,1 @@
-This is the README file inside Assignments folder of html-assignments branch
+This is the README file inside Assignments folder of css-assignments branch
